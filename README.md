@@ -9,6 +9,7 @@ Installation :
 In the environment file:
 
 OPENAI_API_KEY=sk-...
+
 SERPAPI_API_KEY=your-serpapi-key
 
 Code structure:
